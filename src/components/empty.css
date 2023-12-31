@@ -1,0 +1,15 @@
+.empty--cart {
+    color: rgb(187, 187, 187);
+    place-self: center;
+}
+
+.cart--icon {
+    font-size: 5.5rem;
+    margin-bottom: 0.2em;
+    display: block;
+    margin-inline: auto;
+}
+
+.empty--cart p {
+    font-size: 1.2rem;
+}

@@ -1,0 +1,41 @@
+.navbar {
+    width: 100%;
+    padding: 2em;
+    background-color: #844efe;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 0.2em;
+}
+
+.name {
+    color: #ffffff;
+    font-weight: 1000;
+    font-size: 2rem;
+    letter-spacing: -0.05em;
+}
+
+.links {
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    gap: 2em;
+}
+
+.links a {
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.icon {
+    padding: 0.5em 0.7em;
+    display: grid;
+    place-items: center;
+    background-color: #5a37ad;
+    border-radius: 20%;
+}
